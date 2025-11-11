@@ -1,0 +1,12 @@
+----------------------------------------
+Session Time: 2025-11-5  22:47:47
+----------------------------------------
+Meal Name	Calories
+bread and milk 		200.0
+daal chawal		300.0
+sabji roti		300.0
+----------------------------------------
+Total: 800.0
+Average: 266.67
+You are within your daily calorie limit.
+----------------------------------------
